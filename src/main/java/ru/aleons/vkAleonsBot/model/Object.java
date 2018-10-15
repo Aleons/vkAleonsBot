@@ -6,7 +6,7 @@ public class Object {
     int out;
     int user_id;
     int read_state;
-    String title; //"id":10,"date":1539519833,"out":0,"user_id":6329091,"read_state":0,"title":"","body":"c"
+    String title;
     String body;
 
     public Object() {

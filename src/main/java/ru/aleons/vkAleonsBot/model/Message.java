@@ -1,7 +1,6 @@
 package ru.aleons.vkAleonsBot.model;
 
 public class Message {
-//{"type":"message_new","object":{"id":15,"date":1539520305,"out":0,"user_id":6329091,"read_state":0,"title":"","body":"П"},"group_id":172491478,"secret":"homeTest"}
     private String type;
     private Object object;
     private int group_id;
